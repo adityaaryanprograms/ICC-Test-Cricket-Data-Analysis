@@ -1,4 +1,4 @@
-# ICC-Test-Cricket-Data-Analysis
+# ICC Test Cricket Data Analysis
 
 ## Problem Statement
 Despite having access to extensive ICC Test cricket data, identifying and selecting top-performing batsmen for a team remains a significant challenge for cricket analysts and team selectors. As a result, there is a pressing need to develop a comprehensive and objective approach to identify and evaluate the performance of top-performing batsmen. The primary task to accomplish from the data is analysing it and looking at various factors in order to create best possible groups of batsmen using DBMS.
